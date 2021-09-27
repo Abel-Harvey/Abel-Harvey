@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abel-Harvey
-- 👀 I’m interested in Computer Science and Machine Learning
-- 🌱 I’m currently learning OS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I have just become a graduate student
+- 🌱 My research direction is Knowledge Graph, NLP
+- 🌱 I hope to publish more than two papers at EMNLP and other top-level conferences when I graduate.
+- 💞️ I am studying hard and making progress
 - 📫 Want to know me more: blog.abelcse.cn
 
 <!---
